@@ -1,1 +1,1 @@
-# Python Alternative Least Square: Collaborative Filtering for Implicit Feedback Datasets
+# Python Alternating Least Squares: Collaborative Filtering for Implicit Feedback Datasets
